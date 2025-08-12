@@ -73,14 +73,14 @@ This script performs decision tree analysis on trading decisions using the follo
 - Overall portfolio performance summary
 - Detailed trade log with dates, prices, and transactions
 - Final profit/loss calculation and percentage return
-
+![Screenshot](images/Picture1.png)
 ### Task 2 Output
 - Dataset entropy calculation
 - Information gain for each attribute
 - Decision tree structure description
 - Resubstitution errors for different tree configurations
 - Graphical decision tree representations
-
+![Screenshot](images/Picture2.png)
 ## Educational Value
 
 These scripts demonstrate:
